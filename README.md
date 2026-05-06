@@ -1,9 +1,8 @@
-=========================================================
 TRAINING LOG: API CONSUMPTION & JAVA INTEGRATION
-=========================================================
+
 
 1. INTRODUCTION: WHAT I WILL DO
----------------------------------------------------------
+
 In this session, I will demonstrate the full lifecycle of consuming a REST API. 
 My objective is to retrieve real-time weather data for Tokyo from the 
 Open-Meteo public API. 
@@ -16,7 +15,7 @@ in a Java environment. Specifically, I will:
 - Implement a programmatic solution using the UniRest library.
 
 2. STEP-BY-STEP WORKFLOW
----------------------------------------------------------
+
 To complete this task, I will use the following software:
 - Postman (API Client)
 - Java IDE (IntelliJ, Eclipse, or VS Code)
@@ -45,7 +44,7 @@ STEP 4: JAVA UNIREST IMPLEMENTATION
   the response body.
 
 3. EXPECTED OUTPUT
----------------------------------------------------------
+
 By the end of this process, I will have achieved the following:
 - A verified API call history in Postman.
 - A functional Java class that retrieves and prints live weather data.
@@ -53,6 +52,3 @@ By the end of this process, I will have achieved the following:
 - The ability to differentiate between a successful 'Read' operation (GET) 
   and a handled error scenario.
 
-=========================================================
-END OF LOG
-=========================================================
